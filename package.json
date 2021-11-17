@@ -1,0 +1,8 @@
+
+    {
+      "private": true,
+      "name": "goodnewschristianchurch.org",
+      "workspaces": ["next-js", "sanity"],
+      "scripts": {}
+    }
+  
